@@ -7,6 +7,7 @@ package in.irfanit;
 public class App 
 {
     int 1=10
+<<<<<<< HEAD
 int j=20;
     public static void main( String[] args )
     {
@@ -14,8 +15,12 @@ int j=20;
 
         
 =======
+=======
+        int j=20;
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+>>>>>>> f0545fc15f6968680e0a2ca4d713a1c48254db6f
                 System.out.println( "Good Morning...!!" );
-
->>>>>>> d8a143bd17a4b32e2258c73edf7b3c4a3670270f
     }
 }
