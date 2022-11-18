@@ -1,0 +1,6 @@
+class Pk{
+//Bug-Fixing 101
+public void m2(){
+//logic
+}
+}
